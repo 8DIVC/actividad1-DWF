@@ -1,0 +1,28 @@
+body {
+    background:rgb(206, 252, 209);
+    border-radius: 100px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+}
+
+
+h1 {
+    background: rgb(248, 142, 4);
+    padding: 2px;
+    font-weight: bold;
+    border-radius: 100px;
+    text-align: center;
+    font: medium;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 80px;
+    text-transform: uppercase;
+    border: 2px solid transparent;
+}
+
+a:hover {
+    color: rgb(10, 49, 2);
+    font-weight: bold;
+}
